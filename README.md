@@ -1,2 +1,2 @@
-# django_custom_user_boilerplate
+# Django custom user boilerplate
 Django boilerplate project for custom User model.
